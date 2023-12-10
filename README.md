@@ -2,8 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut&hide=ShaderLab,HLSL,ASP.NET,HTML,CSS)](https://github.com/bas-boop/github-readme-stats)
 
 # Current game project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Platypus-game&theme=dark&show_icons=true)](https://github.com/bas-boop/Platypus-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=tictactoe&theme=dracula_icons=true)](https://github.com/bas-boop/tictactoe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Feature-vault&theme=dark&show_icons=true)](https://github.com/bas-boop/Feature-vault)
 
 <h3 align="center">
   
