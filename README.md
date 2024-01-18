@@ -1,5 +1,5 @@
-[![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=cobalt)](https://github.com/bas-boop/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut&langs_count=16&hide=ShaderLab,HLSL,ASP.NET,HTML,CSS)](https://github.com/bas-boop/github-readme-stats)
+[![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=cobalt)](https://github.com/bas-boop/Feature-vault)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut&langs_count=16&hide=ShaderLab,HLSL,ASP.NET,HTML,CSS)](https://github.com/bas-boop/Feature-vault)
 
 # Current game project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Feature-vault&theme=dark&show_icons=true)](https://github.com/bas-boop/Feature-vault)
