@@ -19,6 +19,7 @@
   <summary>Small projects</summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=IceBites&theme=merko&show_icons=true)](https://github.com/Team-Swamp/IceBites)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=VormenVsFormen&theme=blue-green&show_icons=true)](https://github.com/bas-boop/VormenVsFormen)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=tictactoe&theme=omni&show_icons=true)](https://github.com/bas-boop/tictactoe)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Many-coins&theme=transparent&show_icons=true)](https://github.com/bas-boop/Many-coins)
 </details>
