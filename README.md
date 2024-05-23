@@ -9,7 +9,7 @@
 <details>
   <summary>Highlighted projects</summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=Codename-BDLMTW&theme=merko&show_icons=true)](https://github.com/Team-Swamp/Codename-BDLMTW)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=CaptureGraafsmeer&theme=merko&show_icons=true)](https://github.com/Team-Swamp/CaptureGraafsmeer)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Unity-maze-gen&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Unity-maze-gen)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Smoll_Knight_plus_Horse&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Smoll_Knight_plus_Horse)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Platypus-game&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Platypus-game)
