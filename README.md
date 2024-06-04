@@ -35,6 +35,8 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=BlacksmithSimulator&theme=merko&show_icons=true)](https://github.com/Team-Swamp/BlacksmithSimulator)
 </details>
 
+![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,rider)
+
 <h3 align="center">
   
    **Contact**
