@@ -35,6 +35,7 @@ Planned features:
 <details>
   <summary>Small projects</summary>
 
+  [![FpsManager](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=FpsManager&theme=aura&show_icons=true)](https://github.com/bas-boop/FpsManager)
   [![Feature-vault](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Feature-vault&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Feature-vault)
   [![IceBites](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=IceBites&theme=merko&show_icons=true)](https://github.com/Team-Swamp/IceBites)
   [![VormenVsFormen](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=VormenVsFormen&theme=blue-green&show_icons=true)](https://github.com/bas-boop/VormenVsFormen)
