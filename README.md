@@ -1,10 +1,12 @@
-[![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=cobalt)](https://github.com/bas-boop/Feature-vault)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut&langs_count=16&hide=ShaderLab,HLSL,ASP.NET,HTML,CSS)](https://github.com/bas-boop/Feature-vault)
+[![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=cobalt&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/stars/bas-boop/lists/mine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut-vertical&langs_count=16&hide=ShaderLab,HLSL,ASP.NET,HTML,CSS&custom_title=Most_Used_Languages_public_repos&card_width=330)](https://github.com/bas-boop?tab=repositories)
 
 ## Current project
-Won't show the repo yet, but I can tell what it is.
+Won't show the repo yet, but I can tell what it is:
+<details>
+  <summary>SpacePets (working title)</summary>
 
-### SpacePets (working title)
+  <br>
 A 2D top-down space shooter/bullet hell. It features level-based gameplay where the objective is to rescue and collect cute pets. These pets are then placed into your own spaceships to enhance their stats and abilities.
 
 Inspired by:
@@ -21,6 +23,8 @@ Planned features:
 * Enemy waves system
 * Level based game with enemy bosses at the end
 * Pet collection for stats and abbilties
+
+</details>
 
 ## All projects
 <details open>
