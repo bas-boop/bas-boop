@@ -1,5 +1,5 @@
 [![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=cobalt&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/stars/bas-boop/lists/mine)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut-vertical&langs_count=16&hide=ShaderLab,HLSL,ASP.NET,HTML,CSS&card_width=330)](https://github.com/bas-boop?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut-vertical&langs_count=16&hide=ShaderLab,HLSL,ASP.NET&card_width=330)](https://github.com/bas-boop?tab=repositories)
 <!--&custom_title=Most_Used_Languages_public_repos-->
 
 ## Current project
@@ -59,7 +59,13 @@ Planned features:
   [![BlacksmithSimulator](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=BlacksmithSimulator&theme=merko&show_icons=true)](https://github.com/Team-Swamp/BlacksmithSimulator)
 </details>
 
-![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,rider)
+## My skills
+Languages:<br>
+![Languages](https://skillicons.dev/icons?i=cs,cpp,js)<br>
+Tools:<br>
+![Tools](https://skillicons.dev/icons?i=unity,rider,git,github,vscode,idea,clion)<br>
+Mark up/down:<br>
+![Mark up](https://skillicons.dev/icons?i=html,css,md)
 
 <h3 align="center">
   
