@@ -3,35 +3,15 @@
 <!--&custom_title=Most_Used_Languages_public_repos-->
 
 ## Current project
-Won't show the repo yet, but I can tell what it is:
-<details>
-  <summary>SpacePets (working title)</summary>
-
-  <br>
-A 2D top-down space shooter/bullet hell. It features level-based gameplay where the objective is to rescue and collect cute pets. These pets are then placed into your own spaceships to enhance their stats and abilities.
-
-Inspired by:
-* Ikaruga
-* 1942 (the game)
-* Galaga
-* My pet dog (his name is `Billy`)
-
-There's also a possibility of incorporating a growing pets mechanic, potentially making it suitable for a mobile game. Initially, I'll focus on developing the core gameplay and pet collection aspects to see how far it can get.
-
-Planned features:
-* Object pooling
-* Advanced bullet paths
-* Enemy waves system
-* Level based game with enemy bosses at the end
-* Pet collection for stats and abbilties
-
-</details>
+Propably something for HKU, my bacholar college. Look at these repos to find my [current project](https://github.com/bas-boop?tab=repositories&q=+bachelor-project&type=&language=&sort=).<br>
+I'm also rebuilding my [portfolio website](https://www.bas-de-reus.nl), if you want to see the [code](https://github.com/bas-boop/Portfolio2).
 
 ## All projects
 <details open>
   <summary>Highlighted projects</summary>
 
   [![CaptureGraafsmeer](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=CaptureGraafsmeer&theme=merko&show_icons=true)](https://github.com/Team-Swamp/CaptureGraafsmeer)
+  [![ProjectIgnite](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ProjectIgnite&theme=blue-green&show_icons=true)](https://github.com/bas-boop/ProjectIgnite)
   [![Unity-maze-gen](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Unity-maze-gen&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Unity-maze-gen)
   [![Smoll_Knight_plus_Horse](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Smoll_Knight_plus_Horse&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Smoll_Knight_plus_Horse)
   [![Platypus-game](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Platypus-game&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Platypus-game)
@@ -62,10 +42,11 @@ Planned features:
 ## My skills
 Languages:<br>
 ![Languages](https://skillicons.dev/icons?i=cs,cpp,js)<br>
+Game development:<br>
+![Tools](https://skillicons.dev/icons?i=unity,godot,ps)<br>
 Tools:<br>
-![Tools](https://skillicons.dev/icons?i=unity,rider,git,github,vscode,idea,clion)<br>
-Mark up/down:<br>
-![Mark up](https://skillicons.dev/icons?i=html,css,md)
+![Tools](https://skillicons.dev/icons?i=git,github,rider,vscode,visualstudio)
+<!-- ,idea,clion -->
 
 <h3 align="center">
   
