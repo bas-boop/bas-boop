@@ -1,5 +1,5 @@
-[![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=cobalt&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/stars/bas-boop/lists/mine)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut-vertical&langs_count=16&hide=ShaderLab,HLSL,ASP.NET&card_width=330)](https://github.com/bas-boop?tab=repositories)
+[![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=midnight-purple&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/stars/bas-boop/lists/mine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut-vertical&theme=midnight-purple&langs_count=16&hide=ShaderLab,HLSL,ASP.NET&card_width=330)](https://github.com/bas-boop?tab=repositories)
 <!--&custom_title=Most_Used_Languages_public_repos-->
 
 ## Current project
