@@ -43,7 +43,7 @@ I'm also rebuilding my [portfolio website](https://www.bas-de-reus.nl), if you w
 Languages:<br>
 ![Languages](https://skillicons.dev/icons?i=cs,cpp,js)<br>
 Game development:<br>
-![Tools](https://skillicons.dev/icons?i=unity,godot,ps)<br>
+![Tools](https://skillicons.dev/icons?i=unity,godot,blender)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/800px-Calligrakrita-base.svg.png" alt="Krita" width="50"><br>
 Tools:<br>
 ![Tools](https://skillicons.dev/icons?i=git,github,rider,vscode,visualstudio)
 <!-- ,idea,clion -->
