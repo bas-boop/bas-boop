@@ -11,9 +11,9 @@ I'm also rebuilding my [portfolio website](https://www.bas-de-reus.nl), if you w
   <summary>Highlighted projects</summary>
 
   [![CaptureGraafsmeer](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=CaptureGraafsmeer&theme=merko&show_icons=true)](https://github.com/Team-Swamp/CaptureGraafsmeer)
-  [![ProjectIgnite](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ProjectIgnite&theme=blue-green&show_icons=true)](https://github.com/bas-boop/ProjectIgnite)
+  [![Codename-C](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Codename-C&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Codename-C)
+  [![IntegratedGameplaySystem](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=IntegratedGameplaySystem&theme=blue-green&show_icons=true)](https://github.com/bas-boop/IntegratedGameplaySystem)
   [![Unity-maze-gen](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Unity-maze-gen&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Unity-maze-gen)
-  [![Smoll_Knight_plus_Horse](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Smoll_Knight_plus_Horse&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Smoll_Knight_plus_Horse)
   [![Platypus-game](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Platypus-game&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Platypus-game)
 </details>
 
