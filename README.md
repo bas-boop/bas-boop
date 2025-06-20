@@ -18,6 +18,22 @@ I'm also rebuilding my [portfolio website](https://www.bas-de-reus.nl), if you w
 </details>
 
 <details>
+  <summary>School projects</summary>
+
+  [![CaptureGraafsmeer](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=CaptureGraafsmeer&theme=tokyonight&show_icons=true)](https://github.com/Team-Swamp/CaptureGraafsmeer)
+  [![Codename-C](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Codename-C&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/Codename-C)
+  [![ProjectImagine](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ProjectImagine&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/ProjectImagine)
+  [![IntegratedGameplaySystem](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=IntegratedGameplaySystem&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/IntegratedGameplaySystem)
+  [![ModuleGitgud](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ModuleGitgud&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/ModuleGitgud)
+  [![CathSpaceTrash](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=CathSpaceTrash&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/CathSpaceTrash)
+  [![ProjectIgnite](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ProjectIgnite&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/ProjectIgnite)
+  [![SpeedRacer](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=SpeedRacer&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/SpeedRacer)
+  [![BaguetteTime](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=BaguetteTime&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/BaguetteTime)
+  [![IceBites](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=IceBites&theme=tokyonight&show_icons=true)](https://github.com/Team-Swamp/IceBites)
+  [![VormenVsFormen](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=VormenVsFormen&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/VormenVsFormen)
+</details>
+
+<details>
   <summary>Small projects</summary>
 
   [![FpsManager](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=FpsManager&theme=aura&show_icons=true)](https://github.com/bas-boop/FpsManager)
