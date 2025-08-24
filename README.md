@@ -48,6 +48,7 @@ I'm also rebuilding my [portfolio website](https://www.bas-de-reus.nl), if you w
   <summary>Game jams</summary>
 
   [![The-Lost-Reel](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=The-Lost-Reel&theme=merko&show_icons=true)](https://github.com/Team-Swamp/The-Lost-Reel)
+  [![Plantbug](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Plantbug&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Plantbug)
   [![Voedelstjes](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=HUGJ2022P1-Voedelstjes&theme=blue-green&show_icons=true)](https://github.com/bas-boop/HUGJ2022P1-Voedelstjes)
   [![Coffee-maker](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Coffee-maker&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Coffee-maker)
   [![Mecco-the-Chameleon](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Mecco-the-Chameleon&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Mecco-the-Chameleon)
