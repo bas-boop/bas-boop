@@ -1,76 +1,101 @@
-[![Bas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bas-boop&show_icons=true&theme=midnight-purple&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/stars/bas-boop/lists/mine)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas-boop&layout=donut-vertical&theme=midnight-purple&langs_count=16&hide=ShaderLab,HLSL,ASP.NET&card_width=330)](https://github.com/bas-boop?tab=repositories)
-<!--&custom_title=Most_Used_Languages_public_repos-->
+<div align="center">
 
-## Current project
-Propably something for HKU, my bacholar college. Look at these repos to find my [current project](https://github.com/bas-boop?tab=repositories&q=+bachelor-project&type=&language=&sort=).<br>
-I'm also rebuilding my [portfolio website](https://www.bas-de-reus.nl), if you want to see the [code](https://github.com/bas-boop/Portfolio2).
+# Hey, I'm Bas de Reus!
+### 🎮 Gameplay Programmer | 🎓 HKU Student | 💻 C# & Unity Enthusiast
 
-## All projects
-<details open>
-  <summary>Highlighted projects</summary>
-
-  [![CaptureGraafsmeer](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=CaptureGraafsmeer&theme=merko&show_icons=true)](https://github.com/Team-Swamp/CaptureGraafsmeer)
-  [![Codename-C](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Codename-C&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Codename-C)
-  [![IntegratedGameplaySystem](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=IntegratedGameplaySystem&theme=blue-green&show_icons=true)](https://github.com/bas-boop/IntegratedGameplaySystem)
-  [![Unity-maze-gen](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Unity-maze-gen&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Unity-maze-gen)
-  [![Platypus-game](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Platypus-game&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Platypus-game)
-</details>
-
-<details>
-  <summary>School projects</summary>
-
-  [![CaptureGraafsmeer](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=CaptureGraafsmeer&theme=tokyonight&show_icons=true)](https://github.com/Team-Swamp/CaptureGraafsmeer)
-  [![Codename-C](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Codename-C&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/Codename-C)
-  [![ProjectImagine](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ProjectImagine&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/ProjectImagine)
-  [![IntegratedGameplaySystem](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=IntegratedGameplaySystem&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/IntegratedGameplaySystem)
-  [![ModuleGitgud](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ModuleGitgud&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/ModuleGitgud)
-  [![CathSpaceTrash](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=CathSpaceTrash&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/CathSpaceTrash)
-  [![ProjectIgnite](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=ProjectIgnite&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/ProjectIgnite)
-  [![SpeedRacer](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=SpeedRacer&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/SpeedRacer)
-  [![BaguetteTime](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=BaguetteTime&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/BaguetteTime)
-  [![IceBites](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=IceBites&theme=tokyonight&show_icons=true)](https://github.com/Team-Swamp/IceBites)
-  [![VormenVsFormen](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=VormenVsFormen&theme=tokyonight&show_icons=true)](https://github.com/bas-boop/VormenVsFormen)
-</details>
-
-<details>
-  <summary>Small projects</summary>
-
-  [![FpsManager](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=FpsManager&theme=aura&show_icons=true)](https://github.com/bas-boop/FpsManager)
-  [![Feature-vault](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Feature-vault&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Feature-vault)
-  [![IceBites](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=IceBites&theme=merko&show_icons=true)](https://github.com/Team-Swamp/IceBites)
-  [![VormenVsFormen](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=VormenVsFormen&theme=blue-green&show_icons=true)](https://github.com/bas-boop/VormenVsFormen)
-  [![tictactoe](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=tictactoe&theme=omni&show_icons=true)](https://github.com/bas-boop/tictactoe)
-  [![Many-coins](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Many-coins&theme=transparent&show_icons=true)](https://github.com/bas-boop/Many-coins)
-</details>
-
-<details>
-  <summary>Game jams</summary>
-
-  [![The-Lost-Reel](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=The-Lost-Reel&theme=merko&show_icons=true)](https://github.com/Team-Swamp/The-Lost-Reel)
-  [![Plantbug](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Plantbug&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Plantbug)
-  [![Voedelstjes](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=HUGJ2022P1-Voedelstjes&theme=blue-green&show_icons=true)](https://github.com/bas-boop/HUGJ2022P1-Voedelstjes)
-  [![Coffee-maker](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Coffee-maker&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Coffee-maker)
-  [![Mecco-the-Chameleon](https://github-readme-stats.vercel.app/api/pin/?username=bas-boop&repo=Mecco-the-Chameleon&theme=blue-green&show_icons=true)](https://github.com/bas-boop/Mecco-the-Chameleon)
-  [![Inner-Thoughts](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=Inner-Thoughts&theme=merko&show_icons=true)](https://github.com/Team-Swamp/Inner-Thoughts)
-  [![BlacksmithSimulator](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=BlacksmithSimulator&theme=merko&show_icons=true)](https://github.com/Team-Swamp/BlacksmithSimulator)
-</details>
-
-## My skills
-Languages:<br>
-![Languages](https://skillicons.dev/icons?i=cs,cpp,js)<br>
-Game development:<br>
-![Tools](https://skillicons.dev/icons?i=unity,unreal,blender)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/800px-Calligrakrita-base.svg.png" alt="Krita" width="50"><br>
-Tools:<br>
-![Tools](https://skillicons.dev/icons?i=git,github,rider,vscode,visualstudio)
-<!-- ,idea,clion -->
-
-<h3 align="center">
-  
-   **Contact**
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://bas-de-reus.nl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bas-de-reus/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dereusbas461@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bas-de-reus/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bas-de-reus.nl)
-  
-</h3>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bas-boop&theme=2077)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bas-boop&theme=2077" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bas-boop&theme=2077" width="48%" />
+
+</div>
+
+---
+
+## 🚀 Current Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Bachelor Project
+Working on exciting projects at HKU!
+
+[![View Projects](https://img.shields.io/badge/View_Bachelor_Projects-181717?style=for-the-badge&logo=github)](https://github.com/bas-boop?tab=repositories&q=+bachelor-project&type=&language=&sort=)
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Rebuild
+Redesigning my portfolio from scratch!
+
+[![Live Site](https://img.shields.io/badge/Live_Site-FF7139?style=for-the-badge&logo=firefox)](https://www.bas-de-reus.nl)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/bas-boop/Portfolio2)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💬 Languages
+![C#](https://skillicons.dev/icons?i=cs)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### 🎮 Game Development
+![Unity](https://skillicons.dev/icons?i=unity)
+![Unreal](https://skillicons.dev/icons?i=unreal)
+![Blender](https://skillicons.dev/icons?i=blender)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1280px-Calligrakrita-base.svg.png" alt="Krita" width="48">
+
+### 🔧 Tools & IDEs
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Rider](https://skillicons.dev/icons?i=rider)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[ShuttleFrog](https://github.com/bas-boop/ShuttleFrog)** | Co-op gyro mobile arcadestick item delivery game |
+| **[CaptureGraafsmeer](https://github.com/Team-Swamp/CaptureGraafsmeer)** | Unity GPS mobile game made during MBO exam. Made for the City of Amsterdam, explore the city with a photobook |
+| **[IntegratedGameplaySystem](https://github.com/bas-boop/IntegratedGameplaySystem)** | Explored how to make my own game systems, without relying on Unity's built-in game architecture |
+| **[TowerDefenceLevelEditor](https://github.com/bas-boop/TowerDefenceLevelEditor)** | A level editor tool made for quick and easy level design. Uses JSON files to export and import levels |
+| **[Unity-maze-gen](https://github.com/bas-boop/Unity-maze-gen)** | Unity project perfect maze generator with customizable algorithms |
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF7139?style=for-the-badge)](https://bas-de-reus.nl)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/bas-de-reus/)
+[![Email](https://img.shields.io/badge/📧_Email-Send_Message-D14836?style=for-the-badge)](mailto:dereusbas461@gmail.com)
+
+---
+
+</div>
